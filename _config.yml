@@ -4,9 +4,8 @@ description: "Erdem Topak's Blog about Android and other stuffs"
 meta_description: "Erdem Topak's Blog about Android and other stuffs"
 
 markdown: kramdown
-highlighter: pygments
 logo: false
-paginate: 15
+paginate: 10
 baseurl: /
 domain_name: 'https://erdemtopak.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
