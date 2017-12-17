@@ -1,0 +1,17 @@
+name: Erdem Topak's Blog
+description: Erdem Topak's Blog about Android and other stuffs
+description: "Erdem Topak's Blog about Android and other stuffs"
+meta_description: "Erdem Topak's Blog about Android and other stuffs"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'https://erdemtopak.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'https://erdemtopak.github.io'
+author:         'Erdem Topak'
